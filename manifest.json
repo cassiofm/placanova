@@ -1,0 +1,13 @@
+{
+  "name": "Placa Nova — Controle Industrial ESP32-C3",
+  "version": "2.0.0",
+  "home_page_url": "https://cassiofm.github.io/placanova/",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        { "path": "firmware_merged.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
